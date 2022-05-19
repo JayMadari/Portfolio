@@ -117,11 +117,12 @@ button:hover{
   z-index: 2;
 }
 
-/* Show Overlay Js */
+ /* Show Overlay Js */
 .show-overlay{
   opacity: 1;
   visibility: visible;
-}
+} 
+
 .nav-overlay-container {
   margin: 0 auto;
   height: 100%;
